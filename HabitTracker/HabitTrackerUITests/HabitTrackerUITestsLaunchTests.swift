@@ -1,10 +1,3 @@
-//
-//  HabitTrackerUITestsLaunchTests.swift
-//  HabitTrackerUITests
-//
-//  Created by Yuri Santiago on 23/01/25.
-//
-
 import XCTest
 
 final class HabitTrackerUITestsLaunchTests: XCTestCase {

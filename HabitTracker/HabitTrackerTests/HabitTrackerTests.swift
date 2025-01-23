@@ -1,10 +1,3 @@
-//
-//  HabitTrackerTests.swift
-//  HabitTrackerTests
-//
-//  Created by Yuri Santiago on 23/01/25.
-//
-
 import Testing
 @testable import HabitTracker
 
